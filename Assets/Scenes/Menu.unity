@@ -2294,8 +2294,12 @@ MonoBehaviour:
   musicSource: {fileID: 267871450}
   SFXSource: {fileID: 1634240475}
   background: {fileID: 8300000, guid: ab6a92ee3bea3f34caa9aa378465db46, type: 3}
+  levelUp: {fileID: 8300000, guid: 28a7e67ca249e874887b4c601e4f5e1b, type: 3}
+  hit: {fileID: 8300000, guid: 54c166e28682da24eaecfef4683f6233, type: 3}
   gamePlay: {fileID: 8300000, guid: 05ed336e3b62a1344bb61448bba1be2e, type: 3}
-  death: {fileID: 0}
+  death: {fileID: 8300000, guid: c26d95c7422680f4e8aaf8c25080b786, type: 3}
+  playerDeath: {fileID: 8300000, guid: b99da9a57308d4ba1bee1cf1d9038376, type: 3}
+  bossDeath: {fileID: 8300000, guid: 49031016cebef4847b36a07b6a3ef255, type: 3}
   shoot: {fileID: 8300000, guid: 881e3f52c86c94f26a60718d35627cd8, type: 3}
 --- !u!4 &1479893209
 Transform:

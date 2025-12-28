@@ -116,10 +116,12 @@ public class PlayerShip : MonoBehaviour
         if (collision.CompareTag("EnemyShot"))
         {
             currHealth--;
+            AudioManager.instance.musicSFX(AudioManager.instance.hit);
             Destroy(collision.gameObject);
         }
         if(currHealth <= 0)
         {
+            AudioManager.instance.musicSFX(AudioManager.instance.playerDeath);
             GameOverMenu.instance.Lose();
         }
 

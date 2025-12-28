@@ -29,6 +29,7 @@ public class PauseMenu : MonoBehaviour
     public void Menu()
     {
         StopAllCoroutines();
+        AudioManager.instance.gameMenu();
         Time.timeScale = 1f;
         SceneManager.LoadScene("Menu");
     }

@@ -60,6 +60,7 @@ public class Enemy2 : MonoBehaviour
         }
         if (hp <= 0)
         {
+            AudioManager.instance.musicSFX(AudioManager.instance.death);
             Destroy(gameObject);
             ScoreManager.instance.AddScore(pointsDeath);
             EXPManager.instance.AddEXP(expDeath);

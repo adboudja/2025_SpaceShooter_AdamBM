@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\expmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\expmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\playership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\gameovermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|d:\\proyectosunity\\2025_spaceshooter_adambm\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\expmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\expmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\botones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\botones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\playershot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\powermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\gameovermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,8 +31,24 @@
       "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|d:\\proyectosunity\\2025_spaceshooter_adambm\\assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\botones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\botones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\playershot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\powermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\bossspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\enemyshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CCA456E-EDD1-AC79-1C86-3B78015EDB5C}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\assets\\scripts\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GameOverMenu.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\GameOverMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverMenu.cs",
@@ -91,15 +91,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Boss.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\Boss.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Boss.cs",
               "ToolTip": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\Boss.cs",
               "RelativeToolTip": "Assets\\Scripts\\Boss.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T19:31:33.368Z"
+              "WhenOpened": "2025-12-27T19:31:33.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EnemyShot.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\EnemyShot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyShot.cs",
@@ -139,19 +140,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
               "ToolTip": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\AudioManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:50:05.211Z"
+              "WhenOpened": "2025-12-26T12:50:05.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Botones.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\Botones.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Botones.cs",
@@ -159,12 +161,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Botones.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwCsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:16:03.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T12:16:03.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "PlayerShot.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\PlayerShot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShot.cs",
@@ -172,12 +173,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerShot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T13:40:21.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T13:40:21.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
@@ -185,42 +185,43 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowDkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T13:09:18.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T13:09:18.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Enemy1.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\Enemy1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy1.cs",
               "ToolTip": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\Enemy1.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T13:02:06.832Z"
+              "WhenOpened": "2025-12-25T13:02:06.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Enemy2.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\Enemy2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy2.cs",
               "ToolTip": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\Enemy2.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy2.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T19:08:36.981Z"
+              "WhenOpened": "2025-12-27T19:08:36.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerShip.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\PlayerShip.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShip.cs",
               "ToolTip": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\PlayerShip.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerShip.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwH8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T12:16:40.637Z",
               "EditorCaption": ""
@@ -233,14 +234,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
               "ToolTip": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\PauseMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-27T12:11:51.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BossSpawner.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\BossSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BossSpawner.cs",
@@ -252,20 +253,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EXPManager.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\EXPManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EXPManager.cs",
               "ToolTip": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\EXPManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\EXPManager.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwC4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-27T11:35:59.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "PowerMenu.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\2025_SpaceShooter_AdamBM\\Assets\\Scripts\\PowerMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PowerMenu.cs",
@@ -273,8 +274,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PowerMenu.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T16:27:11.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T16:27:11.995Z"
             }
           ]
         }

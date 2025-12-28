@@ -54,6 +54,7 @@ public class EXPManager : MonoBehaviour
     private void UpdateLevel()
     {
         currEXP = 0;
+        AudioManager.instance.musicSFX(AudioManager.instance.levelUp);
         prevLevelXP = (int)expCurve.Evaluate(currLevel);
         nextLevelXP =(int)expCurve.Evaluate(currLevel+1);
         if (currLevel > 0)

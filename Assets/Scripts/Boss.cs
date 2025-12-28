@@ -61,6 +61,7 @@ public class Boss : MonoBehaviour
         }
         if (hp <= 0)
         {
+            AudioManager.instance.musicSFX(AudioManager.instance.bossDeath);
             Destroy(gameObject);
             ScoreManager.instance.AddScore(pointsDeath);
             EXPManager.instance.AddEXP(expDeath);
